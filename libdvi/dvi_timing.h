@@ -74,7 +74,7 @@ struct dvi_lane_dma_cfg {
 extern const uint32_t dvi_ctrl_syms[4];
 
 extern const struct dvi_timing dvi_timing_640x480p_60hz;
-extern const struct dvi_timing dvi_timing_512x300p_60hz;
+extern const struct dvi_timing dvi_timing_768x450p_60hz;
 extern const struct dvi_timing dvi_timing_1024x600p_60hz;
 extern const struct dvi_timing dvi_timing_800x480p_60hz;
 extern const struct dvi_timing dvi_timing_800x600p_60hz;
