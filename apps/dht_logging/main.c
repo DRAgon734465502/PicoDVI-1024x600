@@ -45,9 +45,9 @@ void adc_init_c()
 
 // DVDD 1.2V (1.1V seems ok too)
 #define FRAME_WIDTH 640
-#define FRAME_HEIGHT 480
+#define FRAME_HEIGHT 375
 #define VREG_VSEL VREG_VOLTAGE_1_30
-#define DVI_TIMING dvi_timing_640x480p_60hz
+#define DVI_TIMING dvi_timing_512x300p_60hz
 
 // RGB111 bitplaned framebuffer
 #define PLANE_SIZE_BYTES (FRAME_WIDTH * FRAME_HEIGHT / 8)
