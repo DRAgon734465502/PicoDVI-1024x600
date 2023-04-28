@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "pico.h": "c",
+        "testcard_320x240_rgb565.h": "c",
+        "dvi_serialiser.h": "c",
+        "moon_1bpp_1280x720.h": "c",
+        "moon_1bpp_640x480.h": "c",
+        "vreg.h": "c"
+    }
+}
